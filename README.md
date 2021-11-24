@@ -2,7 +2,7 @@
 WinFetch (Version 2) Code: A CLI program to get windows system information.
 
 ## What it looks like:
-![WinFetch](.github/winfetch.png)
+![WinFetch](.github/winfetch2.png)
 
 ## How to build
 Please use the windows compiler `cl`.
